@@ -1,3 +1,6 @@
+//Leetcode problem coded in cpp
+//Bipartite Graphs
+//All nodes are mapped to either 0 or 1
 bool isBipartite(vector<vector<int>>& gr) {
         int n=gr.size();
         vector<int> v(n,-1);
