@@ -1,3 +1,6 @@
+//comments nodes added for sample 
+// this is account merge code 
+//leetcode problem coded in cpp
 int findparent(vector<int> &parent,int i){
         if(parent[i]==i) return i;
         return parent[i]=findparent(parent,parent[i]);
@@ -46,4 +49,3 @@ int findparent(vector<int> &parent,int i){
         }
         return ans;
     }
-https://leetcode.com/problems/accounts-merge/
