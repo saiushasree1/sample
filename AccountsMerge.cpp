@@ -1,6 +1,3 @@
-//comments nodes added for sample 
-// this is account merge code 
-//leetcode problem coded in cpp
 
     void unionset(vector<int> &parent,int i,int j){
         int x=findparent(parent,i);
