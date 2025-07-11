@@ -40,6 +40,7 @@
                 ans.push_back(temp);
 
             }
+            cout<"debug"<<endl;
         }
         return ans;
     }
