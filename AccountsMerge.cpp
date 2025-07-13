@@ -40,7 +40,7 @@
                 ans.push_back(temp);
 
             }
-            cout<"debug *** debug\\\ hola"<<endl;
+            cout<"debug *** debug\\\ hola friends"<<endl;
         }
         return ans;
     }
